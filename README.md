@@ -5,10 +5,10 @@ Implementation of model 1 from "On Two Convex Variational Models and Their Itera
 
 
 ## Example input:
-![Example output](input.png "Example input").
+![Example output](input.PNG "Example input").
 
 ## Model output:
-![Model output](exoutput.png "Example output").
+![Model output](exoutput.PNG "Example output").
 
 ## Segmentation by thresholding:
-![Segmentation](contour.png "Segmentation").
+![Segmentation](contour.PNG "Segmentation").
